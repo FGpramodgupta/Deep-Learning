@@ -19,3 +19,10 @@ In Keras this can be done via the keras.preprocessing.image.ImageDataGenerator c
 * horizontal_flip is for randomly flipping half of the images horizontally --relevant when there are no assumptions of horizontal assymetry (e.g. real-world pictures).
 * fill_mode is the strategy used for filling in newly created pixels, which can appear after a rotation or a width/height shift.
   
+
+
+
+
+**Dataset **
+
+https://www.kaggle.com/c/dogs-vs-cats/data
